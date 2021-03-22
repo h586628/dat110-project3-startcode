@@ -27,6 +27,7 @@ public class FileContentDownload extends JFrame {
 	
 	private JButton btnClose = new JButton("Close");
 	
+	
 	/**
 	 * Create the frame.
 	 */
